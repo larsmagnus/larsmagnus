@@ -1,4 +1,2 @@
-# I supercharge teams by combining accessibility, design and development.
-**Lars Magnus Klavenes — Senior Frontend Engineer & Engineering Manager based in Sydney.**
-
-[Support me 💚](https://larsmagnus.co/donate)
+# I supercharge teams and help make the web better for people.
+**[Lars Magnus Klavenes](https://larsmagnus.co) is a Software Engineer & Engineering Manager based in Sydney, Australia.**
