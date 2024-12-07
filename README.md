@@ -1,2 +1,2 @@
-# I supercharge teams and help make the web better for people.
-**[Lars Magnus Klavenes](https://larsmagnus.co) is a Software Engineer & Engineering Manager based in Sydney, Australia.**
+# I supercharge teams and make the web better for people.
+**[Lars Magnus Klavenes](https://larsmagnus.co) is a Software Engineer, leader and creative based in Sydney, Australia.**
